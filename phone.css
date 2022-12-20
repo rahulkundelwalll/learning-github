@@ -1,0 +1,29 @@
+#navbar{
+    flex-direction: column;
+}
+#home{
+    height: 280px;
+    
+
+}
+#home::before{
+    height: 470px;
+    
+
+}
+#services{
+    flex-direction: column;
+}
+#client{
+    flex-wrap: wrap;
+}
+#client img{
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.h-primary{
+    font-size:26px ;
+}
+html{
+    scroll-behavior: smooth;
+}
